@@ -8,7 +8,13 @@ The normal arrow cursor of the mouse but with some moustache added. You can stop
 
 ## Usage
 
-#### On Windows (11)
+#### Automatic Installation with Installer
+
+Follow the instructions at this page https://github.com/jackie-d/cursor-with-mustache/releases/
+
+#### Manual Installation
+
+##### On Windows (11)
 
 - Download the icon `aero_mustache.cur`
 - Copy it in `C:\Windows\Cursors` folder
